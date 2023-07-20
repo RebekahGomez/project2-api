@@ -2,24 +2,39 @@ import Artwork from "./artwork/model.js"
 import artworkData from "./artwork/artwork.json" assert {type: "json"}
 import connection from "./connection.js"
 
-import axios from 'axios';
-import fs from 'fs';
-
-async function fetchData() {
-  const response = await axios.get('https://api.artic.edu/api/v1/artworks');
-  return response.data;
+function transformOriginalData(originalData) {
+  return {
+    artist: originalData.artist_title,
+    origin: originalData.place_of_origin,
+    date: originalData.date_display,
+    medium: originalData.medium_display,
+    imageId: originalData.image_id
+  }
 }
 
-fetchData().then(data => {
-  fs.writeFileSync('artwork/artwork.json', JSON.stringify(data, null, 2));
-});
+const transformedData = artworkData.data.map(transformOriginalData);
 
-Artwork.remove({})
-Artwork.collection.insert(artworkData)
-  .then(artworkData => {
-    console.log(artworkData)
+// this clears the database of everything then inserts the Artwork
+// which we've linked from our model.js file and artwork.json file -->
+// the artwork.json file was automatically populated from the download.js file
+Artwork.deleteMany({})
+  .then(() => {
+    return Artwork.insertMany(transformedData);
+  })
+  .then(insertedArtworks => {
+    console.log(insertedArtworks);
   })
   .catch(err => {
-    console.log(err)
+    console.log(err);
   })
 
+// this is another way of doing the above
+//  with this method, we call the function at the end
+
+// const insertData = async () => {
+//   await connection.dropDatabase();
+//   await Artwork.insertMany(artworkData);
+//   db.close();
+// }
+
+// insertData();
