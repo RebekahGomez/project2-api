@@ -1,6 +1,6 @@
 import mongoose from "mongoose"
 
-mongoose.connect("mongodb://localhost/api").catch(() => {
+mongoose.connect("mongodb://localhost/artwork").catch(() => {
   console.log("Error connecting to MongoDB");
 });
 

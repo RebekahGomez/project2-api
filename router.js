@@ -1,8 +1,8 @@
 import { Router } from "express";
 const router = Router()
 
-// import apiRoute from "./api/router.js"
+// import artworkRoute from "./artwork/router.js"
 
-//router.use("/api", apiRoute);
+//router.use("/artwork", artworkRoute);
 
 export default router;
