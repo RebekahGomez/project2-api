@@ -8,7 +8,7 @@ import { getAll, searchName } from "./controller.js"
 // remember to change the names below
 
 router.get("/", getAll)
-router.get("/artist/:name", searchName)
+router.get("/:name", searchName)
 // router.get("/:something2", artworkController.something2)
 // router.get("/:something3", artworkController.something3)
 // router.post("/", artworkController.create)
