@@ -8,7 +8,8 @@ const Artwork = new Schema({
   origin: String, // mapped from place_of_origin
   date: String, // mapped from date_display
   medium: String, // mapped from medium_display
-  imageId: String // mapped from image_id
+  imageId: String, // mapped from image_id
+  imageURL: String
 })
 
 export default mongoose.model("Artwork", Artwork)

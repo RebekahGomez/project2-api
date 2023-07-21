@@ -4,14 +4,24 @@ import connection from "./connection.js"
 
 // This function transforms the original names for the items in the object
 // and gives them more identifiable names (EG: "artist_title" changes to "artist")
+
+// Some imageIDs from the original API are 'null' possibly because they haven't been
+// digitized. These next few lines account for a null or undefined imageID. It's a
+// ternary expression, basically short-hand "if-else." First checks if 'originalData.image_id'
+// is truthy - if yes, use the associated link. If not, use the backup link.
 function transformOriginalData(originalData) {
+  let imageURL = originalData.image_id
+    ? `https://www.artic.edu/iiif/2/${originalData.image_id}/full/843,/0/default.jpg`
+    : "https://http.cat/status/204";
+
   return {
     artist: originalData.artist_title,
     title: originalData.title,
     origin: originalData.place_of_origin,
     date: originalData.date_display,
     medium: originalData.medium_display,
-    imageId: originalData.image_id
+    imageId: originalData.image_id,
+    imageURL: imageURL
   }
 }
 
