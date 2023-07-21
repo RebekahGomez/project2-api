@@ -12,10 +12,9 @@ router.get("/origin/:origin", artworkController.searchOrigin)
 router.get("/date/:date", artworkController.searchDate)
 router.get("/medium/:medium", artworkController.searchMedium)
 router.get("/id/:id", artworkController.searchImageId)
-
-// router.post("/", artworkController.create)
-// router.put("/:something4", artworkController.edit)
-// router.delete("/:something5", artworkController.remove)
+router.post("/", artworkController.createArt);
+router.put("/:id", artworkController.updateArt);
+router.delete("/:id", artworkController.deleteArt);
 
 export default router
 
