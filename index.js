@@ -1,5 +1,5 @@
 import express from "express";
-import connection from "./connection.js";
+import connection from "./connection.js"; // connected to mongodb
 import router from "./artwork/router.js";
 
 const app = express();

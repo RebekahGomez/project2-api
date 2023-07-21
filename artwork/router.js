@@ -16,3 +16,5 @@ router.get("/artist/:name", searchName)
 // router.delete("/:something5", artworkController.remove)
 
 export default router
+
+// the router isn't interacting with mongodb - it interacts with the browser and express

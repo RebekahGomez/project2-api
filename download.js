@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+// import fetch from "node-fetch";
 import { promises as fsPromises } from "fs";
 
 fetch('https://api.artic.edu/api/v1/artworks')
