@@ -1183,1120 +1183,1172 @@
       ],
       "style_titles": [
         "21st Century"
-      ],"clas
-sification_id":"TM-240","classification_title":"photograph","alt_classification_ids":["TM-67"],"classification_ids":["TM-240","TM-67"],"classification_titles":["photograph","photography"],"subject_id":null,"alt_subject_ids":[],"subject_ids":[],"subject_titles":[],"material_id":null,"alt_material_ids":[],"material_ids":[],"material_titles":[],"technique_id":null,"alt_technique_ids":[],"technique_ids":[],"technique_titles":[],"theme_titles":["Chicago Artists","African Diaspora","African American artists"],"image_id":"fb4966b6-3a0b-72e8-458d-4b39ec41c14f","alt_image_ids":[],"document_ids":[],"sound_ids":[],"video_ids":[],"text_ids":[],"section_ids":[],"section_titles":[],"site_ids":[],"suggest_autocomplete_all":[{"input":["2013.1237"],"contexts":{"groupings":["accession"]}},{"input":["for everyone a garden VI, from the series \"for everyone a garden\""
-    ],
-    "weight": 103,
-    "contexts": {
-      "groupings": [
-        "title"
-      ]
+      ],
+      "classification_id": "TM-240",
+      "classification_title": "photograph",
+      "alt_classification_ids": [
+        "TM-67"
+      ],
+      "classification_ids": [
+        "TM-240",
+        "TM-67"
+      ],
+      "classification_titles": [
+        "photograph",
+        "photography"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Chicago Artists",
+        "African Diaspora",
+        "African American artists"
+      ],
+      "image_id": "fb4966b6-3a0b-72e8-458d-4b39ec41c14f",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2013.1237"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "for everyone a garden VI, from the series \"for everyone a garden\""
+          ],
+          "weight": 103,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-20T11:22:58-05:00",
+      "updated_at": "2023-07-20T11:25:53-05:00",
+      "timestamp": "2023-07-20T11:31:06-05:00"
+    },
+    {
+      "id": 125547,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/125547",
+      "is_boosted": false,
+      "title": "Mother's Day, from the series \"Born Hip\"",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAB0cGyYlJCooJywrKjUzMjo4Nzo5OD49O0E/PmlnZWpoZnJvbYSAfY2KiKijoa2ppsK9usO+u8/JxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYARJjPM0i5IYiHEAAlEMQQgAOw==",
+        "width": 6002,
+        "height": 7902,
+        "alt_text": "A work made of gelatin silver print."
+      },
+      "main_reference_number": "2017.443",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1962,
+      "date_end": 1962,
+      "date_display": "1962",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Billy Abernathy\nAmerican, 1938-2017",
+      "place_of_origin": "United States",
+      "dimensions": "Image/paper: 17.5 × 13.3 cm (6 15/16 × 5 1/4 in.); Mount: 30.3 × 23.3 cm (11 15/16 × 9 3/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 13.3,
+          "width_in": 5.2363,
+          "height_cm": 17.5,
+          "height_in": 6.8898,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Image/paper"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 23.3,
+          "width_in": 9.1733,
+          "height_cm": 30.3,
+          "height_in": 11.9292,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Mount"
+        }
+      ],
+      "medium_display": "Gelatin silver print",
+      "inscriptions": null,
+      "credit_line": "Gift of the Illinois Arts Council",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 20,
+      "fiscal_year": 2018,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 0,
+      "color": null,
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Photography and Media",
+      "department_id": "PC-12",
+      "artist_id": 44240,
+      "artist_title": "Billy Abernathy",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        44240
+      ],
+      "artist_titles": [
+        "Billy Abernathy"
+      ],
+      "category_ids": [
+        "PC-142",
+        "PC-12",
+        "PC-830"
+      ],
+      "category_titles": [
+        "African American artists",
+        "Photography and Media",
+        "African Diaspora"
+      ],
+      "term_titles": [
+        "Chicago",
+        "photographic paper",
+        "photograph",
+        "black-and-white photography",
+        "20th Century",
+        "gelatin silver (developing-out-paper) pr",
+        "photographic process",
+        "photography",
+        "gelatin silver print",
+        "photographic processes",
+        "photographic techniques",
+        "photography",
+        "African American",
+        "portraits: African American subject"
+      ],
+      "style_id": "TM-13130",
+      "style_title": "20th Century",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-13130"
+      ],
+      "style_titles": [
+        "20th Century"
+      ],
+      "classification_id": "TM-240",
+      "classification_title": "photograph",
+      "alt_classification_ids": [
+        "TM-213",
+        "TM-68",
+        "TM-67",
+        "TM-966"
+      ],
+      "classification_ids": [
+        "TM-240",
+        "TM-213",
+        "TM-68",
+        "TM-67",
+        "TM-966"
+      ],
+      "classification_titles": [
+        "photograph",
+        "gelatin silver (developing-out-paper) pr",
+        "photographic process",
+        "photography",
+        "gelatin silver print"
+      ],
+      "subject_id": "TM-12075",
+      "alt_subject_ids": [
+        "TM-12272",
+        "TM-8646"
+      ],
+      "subject_ids": [
+        "TM-12075",
+        "TM-12272",
+        "TM-8646"
+      ],
+      "subject_titles": [
+        "Chicago",
+        "African American",
+        "portraits: African American subject"
+      ],
+      "material_id": "TM-3046",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-3046"
+      ],
+      "material_titles": [
+        "photographic paper"
+      ],
+      "technique_id": "TM-12089",
+      "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+      ],
+      "theme_titles": [
+        "African American artists",
+        "African Diaspora"
+      ],
+      "image_id": "11a9b885-38f0-6206-6a40-e49f714aae9b",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2017.443"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Mother's Day, from the series \"Born Hip\""
+          ],
+          "weight": 655,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-20T11:24:38-05:00",
+      "updated_at": "2023-07-20T11:25:53-05:00",
+      "timestamp": "2023-07-20T11:31:06-05:00"
+    },
+    {
+      "id": 235708,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/235708",
+      "is_boosted": false,
+      "title": "Nude Frieze",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFVYVXNzcnh6e4GCgI2MiI2NjJGQjZqbmZycnJ6enaOjoaajoKyqpre2srW1tLe3tri3tbu6ub++vMHBwMLBwMbFxM3Mys7Ozc7OztPT09TU1NXV1dfX19nZ2dvb29zc3dzd3d3d3d7e3t/f3+Dg4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwM+lYXkUNiTSA3BACDgjUGUhoTA0olCEAFEMMh7PxOBIBDCdIAA7",
+        "width": 5076,
+        "height": 3385,
+        "alt_text": "A work made of 9 drawings, 40 black and white photographs, 4 polaroids, and a pair of goggles."
+      },
+      "main_reference_number": "2016.214",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1972,
+      "date_end": 1972,
+      "date_display": "1972",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Barbara T. Smith\nAmerican, born 1931",
+      "place_of_origin": null,
+      "dimensions": "Dimensions vary with installation",
+      "dimensions_detail": [],
+      "medium_display": "9 drawings, 40 black and white photographs, 4 Polaroids, and a pair of goggles",
+      "inscriptions": null,
+      "credit_line": "Gift of Society for Contemporary Art",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 246,
+      "fiscal_year": 2017,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 4.4967,
+      "color": {
+        "h": 52,
+        "l": 46,
+        "s": 0,
+        "percentage": 0.04411460510040822,
+        "population": 209
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Contemporary Art",
+      "department_id": "PC-8",
+      "artist_id": 107196,
+      "artist_title": "Barbara T. Smith",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        107196
+      ],
+      "artist_titles": [
+        "Barbara T. Smith"
+      ],
+      "category_ids": [
+        "PC-825",
+        "PC-8"
+      ],
+      "category_titles": [
+        "Women artists",
+        "Contemporary Art"
+      ],
+      "term_titles": [
+        "photograph",
+        "photography"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-240",
+      "classification_title": "photograph",
+      "alt_classification_ids": [
+        "TM-67"
+      ],
+      "classification_ids": [
+        "TM-240",
+        "TM-67"
+      ],
+      "classification_titles": [
+        "photograph",
+        "photography"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Women artists"
+      ],
+      "image_id": "d8c08c76-d0d1-397b-806a-5f59994fa2d2",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2016.214"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Nude Frieze"
+          ],
+          "weight": 12,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-20T11:16:23-05:00",
+      "updated_at": "2023-07-20T11:20:51-05:00",
+      "timestamp": "2023-07-20T11:31:06-05:00"
+    },
+    {
+      "id": 228332,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/228332",
+      "is_boosted": false,
+      "title": "No. 560",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAFLcRJVeCVNajpZbSlceURTYE9cYVFbYlRdYFVdYUVfcVtgYV5hYl5mZlBibExoeFdpcVBqeGBnZiBnjD98m05wgk9yhVN1iEt7lGJ9iV2Aj2aMnW6VpGWVrAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoFAMRAAoR8JUk4NIi0U9UBNdWJcZGreFADs=",
+        "width": 6340,
+        "height": 5114,
+        "alt_text": "A work made of chromogenic print."
+      },
+      "main_reference_number": "2015.73",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 2008,
+      "date_end": 2008,
+      "date_display": "January/February, 2008",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Jean-Luc Mylayne\nFrench, born 1946",
+      "place_of_origin": "France",
+      "dimensions": "Frame: 185.7 × 231.1 cm (73 1/8 × 91 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 231.1,
+          "width_in": 90.9843,
+          "height_cm": 185.7,
+          "height_in": 73.1103,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Frame"
+        }
+      ],
+      "medium_display": "Chromogenic print",
+      "inscriptions": null,
+      "credit_line": "Purchased with funds provided by Lannan Foundation; through prior gifts of the Vision Gallery, Mrs. Daniel Brenner, Helen Harvey Mills, and John Szarkowski and Pace MacGill Gallery",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 20,
+      "fiscal_year": 2015,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": true,
+      "max_zoom_window_size": 1280,
+      "copyright_notice": "© 2008 Jean-Luc Mylayne",
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 0,
+      "color": {
+        "h": 200,
+        "l": 45,
+        "s": 42,
+        "percentage": 0.0025506773636790945,
+        "population": 827
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Photography and Media",
+      "department_id": "PC-12",
+      "artist_id": 95709,
+      "artist_title": "Jean-Luc Mylayne",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        95709
+      ],
+      "artist_titles": [
+        "Jean-Luc Mylayne"
+      ],
+      "category_ids": [
+        "PC-12"
+      ],
+      "category_titles": [
+        "Photography and Media"
+      ],
+      "term_titles": [
+        "photograph",
+        "21st Century",
+        "chromogenic color print",
+        "photography"
+      ],
+      "style_id": "TM-12913",
+      "style_title": "21st Century",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-12913"
+      ],
+      "style_titles": [
+        "21st Century"
+      ],
+      "classification_id": "TM-240",
+      "classification_title": "photograph",
+      "alt_classification_ids": [
+        "TM-558",
+        "TM-67"
+      ],
+      "classification_ids": [
+        "TM-240",
+        "TM-558",
+        "TM-67"
+      ],
+      "classification_titles": [
+        "photograph",
+        "chromogenic color print",
+        "photography"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "f6eba14b-f115-91cc-805f-6a3ba6e6b071",
+      "alt_image_ids": [
+        "aa6d3ebe-b71c-3134-89e0-98cdd1900b68"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2015.73"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "No. 560"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-20T11:17:18-05:00",
+      "updated_at": "2023-07-20T11:20:51-05:00",
+      "timestamp": "2023-07-20T11:31:06-05:00"
+    },
+    {
+      "id": 202156,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/202156",
+      "is_boosted": false,
+      "title": "New Kids on the Bike",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAAAAE5BR1lOSmRaX3tmWn9nWoFhWZ14Xp98XKZ5VaR9WJV2YKqDZa6FaayFbrSHYbCJaKiJdquKdrKOd7OPeLGPermUc7SRermYhsCbhMOghsuunNawl8+zoAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIEBwWnMIW3RZSNYNAaRQmFEsz1RJDpOEADs=",
+        "width": 500,
+        "height": 400,
+        "alt_text": "A work made of digital animation, color, sound; 1 min. 22 sec.; edition 5 of 5, with 2 artist's proofs."
+      },
+      "main_reference_number": "2009.748",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 2002,
+      "date_end": 2002,
+      "date_display": "2002",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Robin Rhode\nSouth African, born 1974",
+      "place_of_origin": null,
+      "dimensions": null,
+      "dimensions_detail": [],
+      "medium_display": "Digital animation, color, sound; 1 min. 22 sec.; edition 5 of 5, with 2 artist's proofs",
+      "inscriptions": null,
+      "credit_line": "Gift of Igor M. DaCosta",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 246,
+      "fiscal_year": 2010,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 37.5054,
+      "color": {
+        "h": 8,
+        "l": 38,
+        "s": 46,
+        "percentage": 0.0014079995494401445,
+        "population": 8
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Film, Video, New Media",
+      "artwork_type_id": 33,
+      "department_title": "Contemporary Art",
+      "department_id": "PC-8",
+      "artist_id": 107977,
+      "artist_title": "Robin Rhode",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        107977
+      ],
+      "artist_titles": [
+        "Robin Rhode"
+      ],
+      "category_ids": [
+        "PC-8"
+      ],
+      "category_titles": [
+        "Contemporary Art"
+      ],
+      "term_titles": [
+        "time-based works",
+        "film (material)",
+        "animation",
+        "21st Century",
+        "film"
+      ],
+      "style_id": "TM-12913",
+      "style_title": "21st Century",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-12913"
+      ],
+      "style_titles": [
+        "21st Century"
+      ],
+      "classification_id": "TM-12314",
+      "classification_title": "time-based works",
+      "alt_classification_ids": [
+        "TM-12320"
+      ],
+      "classification_ids": [
+        "TM-12314",
+        "TM-12320"
+      ],
+      "classification_titles": [
+        "time-based works",
+        "film"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2950",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2950"
+      ],
+      "material_titles": [
+        "film (material)"
+      ],
+      "technique_id": "TM-3952",
+      "alt_technique_ids": [],
+      "technique_ids": [
+        "TM-3952"
+      ],
+      "technique_titles": [
+        "animation"
+      ],
+      "theme_titles": [],
+      "image_id": "099110d9-03ca-8070-c4f8-70363c52d273",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2009.748"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "New Kids on the Bike"
+          ],
+          "weight": 142,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-20T11:18:32-05:00",
+      "updated_at": "2023-07-20T11:20:50-05:00",
+      "timestamp": "2023-07-20T11:31:06-05:00"
+    },
+    {
+      "id": 240824,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/240824",
+      "is_boosted": false,
+      "title": "\"El Dorado,\" Latino Gay Bar, Chicago",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAAIMCQsRCw4RDA0TDRATDBIVDhIVDxEXDxsUDhMVEBMXEBoXEBkaEh4ZEhwbEhgcFBkcFyEdExwkHysgFCkgFyQkGiUoHi4qGy4qISksITo1I0MsHFEvHkswHkMwIE4xIEo4KlY+LgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAREAgphKoYC4OMJaASNSGeiuFgQGw7l4MgQBgvGoxAEADs=",
+        "width": 5956,
+        "height": 4058,
+        "alt_text": "A work made of silver dye-bleach print."
+      },
+      "main_reference_number": "2019.67",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1977,
+      "date_end": 1977,
+      "date_display": "1977",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Luis Medina \nAmerican, born Cuba, 1942–1985",
+      "place_of_origin": null,
+      "dimensions": "Image approx: 23 × 33.5 cm (9 1/16 × 13 1/4 in.); Paper: 27.6 × 35.3 cm (10 7/8 × 13 15/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 33.5,
+          "width_in": 13.189,
+          "height_cm": 23,
+          "height_in": 9.0552,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Image approx"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 35.3,
+          "width_in": 13.8977,
+          "height_cm": 27.6,
+          "height_in": 10.8662,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Paper"
+        }
+      ],
+      "medium_display": "Silver dye-bleach print",
+      "inscriptions": null,
+      "credit_line": "Purchased with funds provided by Lucia Woods Lindley and Daniel A. Lindley, Jr.",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 20,
+      "fiscal_year": 2019,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 27.3773,
+      "color": {
+        "h": 3,
+        "l": 48,
+        "s": 66,
+        "percentage": 0.004570450376335039,
+        "population": 22
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Photography and Media",
+      "department_id": "PC-12",
+      "artist_id": 35721,
+      "artist_title": "Luis Medina",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        35721
+      ],
+      "artist_titles": [
+        "Luis Medina"
+      ],
+      "category_ids": [
+        "PC-829",
+        "PC-154",
+        "PC-12"
+      ],
+      "category_titles": [
+        "Latin American",
+        "Chicago Artists",
+        "Photography and Media"
+      ],
+      "term_titles": [
+        "color photograph",
+        "color photography",
+        "20th Century",
+        "photograph",
+        "photography"
+      ],
+      "style_id": "TM-13130",
+      "style_title": "20th Century",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-13130"
+      ],
+      "style_titles": [
+        "20th Century"
+      ],
+      "classification_id": "TM-12091",
+      "classification_title": "color photograph",
+      "alt_classification_ids": [
+        "TM-240",
+        "TM-67"
+      ],
+      "classification_ids": [
+        "TM-12091",
+        "TM-240",
+        "TM-67"
+      ],
+      "classification_titles": [
+        "color photograph",
+        "photograph",
+        "photography"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": "TM-13061",
+      "alt_technique_ids": [],
+      "technique_ids": [
+        "TM-13061"
+      ],
+      "technique_titles": [
+        "color photography"
+      ],
+      "theme_titles": [
+        "Latin American",
+        "Chicago Artists"
+      ],
+      "image_id": "e9cd6e04-00b0-44c2-61e8-72b795ce4f16",
+      "alt_image_ids": [
+        "ddb84e18-ce4f-d1ad-d0b0-3bea107424ce"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2019.67"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "\"El Dorado,\" Latino Gay Bar, Chicago"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-20T11:15:36-05:00",
+      "updated_at": "2023-07-20T11:15:49-05:00",
+      "timestamp": "2023-07-20T11:31:06-05:00"
+    },
+    {
+      "id": 204252,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/204252",
+      "is_boosted": false,
+      "title": "Parallel Lines. Race (with Zoltán Lábas); Interaction for Two Cameras 1-8, with Explanation (Párhuzamos vonalak. Versenyfutás (Lábas Zoltánnal); Interakció 2 kamerára, magyarázattal)",
+      "alt_titles": null,
+      "thumbnail": null,
+      "main_reference_number": "2010.494",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1977,
+      "date_end": 1977,
+      "date_display": "1977",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Dóra Maurer\nHungarian, born 1937",
+      "place_of_origin": "Hungary",
+      "dimensions": "Each: 40 × 30 cm (15 3/4 × 11 13/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 30,
+          "width_in": 11.8111,
+          "height_cm": 40,
+          "height_in": 15.7481,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Each"
+        }
+      ],
+      "medium_display": "Gelatin silver prints (8) and graphite drawing on paper",
+      "inscriptions": null,
+      "credit_line": "Photography Gala Fund",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 20,
+      "fiscal_year": 2011,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": null,
+      "color": null,
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Photography and Media",
+      "department_id": "PC-12",
+      "artist_id": 110383,
+      "artist_title": "Dóra Maurer",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        110383
+      ],
+      "artist_titles": [
+        "Dóra Maurer"
+      ],
+      "category_ids": [
+        "PC-12",
+        "PC-825"
+      ],
+      "category_titles": [
+        "Photography and Media",
+        "Women artists"
+      ],
+      "term_titles": [
+        "photograph",
+        "paper (fiber product)",
+        "black-and-white photography",
+        "photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-240",
+      "classification_title": "photograph",
+      "alt_classification_ids": [
+        "TM-67"
+      ],
+      "classification_ids": [
+        "TM-240",
+        "TM-67"
+      ],
+      "classification_titles": [
+        "photograph",
+        "photography"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2982"
+      ],
+      "material_titles": [
+        "paper (fiber product)"
+      ],
+      "technique_id": "TM-12089",
+      "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+      ],
+      "theme_titles": [
+        "Women artists"
+      ],
+      "image_id": null,
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2010.494"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Parallel Lines. Race (with Zoltán Lábas); Interaction for Two Cameras 1-8, with Explanation (Párhuzamos vonalak. Versenyfutás (Lábas Zoltánnal); Interakció 2 kamerára, magyarázattal)"
+          ],
+          "weight": 119,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-20T11:12:18-05:00",
+      "updated_at": "2023-07-20T11:15:49-05:00",
+      "timestamp": "2023-07-20T11:31:06-05:00"
     }
-  }
-],
-"source_updated_at": "2023-07-20T11:22:58-05:00",
-"updated_at": "2023-07-20T11:25:53-05:00",
-"timestamp": "2023-07-20T11:31:06-05:00"
-},
-{
-"id": 125547,
-"api_model": "artworks",
-"api_link": "https://api.artic.edu/api/v1/artworks/125547",
-"is_boosted": false,
-"title": "Mother's Day, from the series \"Born Hip\"",
-"alt_titles": null,
-"thumbnail": {
-  "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAB0cGyYlJCooJywrKjUzMjo4Nzo5OD49O0E/PmlnZWpoZnJvbYSAfY2KiKijoa2ppsK9usO+u8/JxgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYARJjPM0i5IYiHEAAlEMQQgAOw==",
-  "width": 6002,
-  "height": 7902,
-  "alt_text": "A work made of gelatin silver print."
-},
-"main_reference_number": "2017.443",
-"has_not_been_viewed_much": false,
-"boost_rank": null,
-"date_start": 1962,
-"date_end": 1962,
-"date_display": "1962",
-"date_qualifier_title": "Made",
-"date_qualifier_id": 4,
-"artist_display": "Billy Abernathy\nAmerican, 1938-2017",
-"place_of_origin": "United States",
-"dimensions": "Image/paper: 17.5 × 13.3 cm (6 15/16 × 5 1/4 in.); Mount: 30.3 × 23.3 cm (11 15/16 × 9 3/16 in.)",
-"dimensions_detail": [
-  {
-    "depth_cm": 0,
-    "depth_in": 0,
-    "width_cm": 13.3,
-    "width_in": 5.2363,
-    "height_cm": 17.5,
-    "height_in": 6.8898,
-    "diameter_cm": 0,
-    "diameter_in": 0,
-    "clarification": "Image/paper"
+  ],
+  "info": {
+    "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+      "https://creativecommons.org/publicdomain/zero/1.0/",
+      "https://www.artic.edu/terms"
+    ],
+    "version": "1.8"
   },
-  {
-    "depth_cm": 0,
-    "depth_in": 0,
-    "width_cm": 23.3,
-    "width_in": 9.1733,
-    "height_cm": 30.3,
-    "height_in": 11.9292,
-    "diameter_cm": 0,
-    "diameter_in": 0,
-    "clarification": "Mount"
+  "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "http://www.artic.edu"
   }
-],
-"medium_display": "Gelatin silver print",
-"inscriptions": null,
-"credit_line": "Gift of the Illinois Arts Council",
-"catalogue_display": null,
-"publication_history": null,
-"exhibition_history": null,
-"provenance_text": null,
-"edition": null,
-"publishing_verification_level": "Web Basic",
-"internal_department_id": 20,
-"fiscal_year": 2018,
-"fiscal_year_deaccession": null,
-"is_public_domain": false,
-"is_zoomable": false,
-"max_zoom_window_size": 843,
-"copyright_notice": null,
-"has_multimedia_resources": false,
-"has_educational_resources": false,
-"has_advanced_imaging": false,
-"colorfulness": 0,
-"color": null,
-"latitude": null,
-"longitude": null,
-"latlon": null,
-"is_on_view": false,
-"on_loan_display": null,
-"gallery_title": null,
-"gallery_id": null,
-"artwork_type_title": "Photograph",
-"artwork_type_id": 2,
-"department_title": "Photography and Media",
-"department_id": "PC-12",
-"artist_id": 44240,
-"artist_title": "Billy Abernathy",
-"alt_artist_ids": [],
-"artist_ids": [
-  44240
-],
-"artist_titles": [
-  "Billy Abernathy"
-],
-"category_ids": [
-  "PC-142",
-  "PC-12",
-  "PC-830"
-],
-"category_titles": [
-  "African American artists",
-  "Photography and Media",
-  "African Diaspora"
-],
-"term_titles": [
-  "Chicago",
-  "photographic paper",
-  "photograph",
-  "black-and-white photography",
-  "20th Century",
-  "gelatin silver (developing-out-paper) pr",
-  "photographic process",
-  "photography",
-  "gelatin silver print",
-  "photographic processes",
-  "photographic techniques",
-  "photography",
-  "African American",
-  "portraits: African American subject"
-],
-"style_id": "TM-13130",
-"style_title": "20th Century",
-"alt_style_ids": [],
-"style_ids": [
-  "TM-13130"
-],
-"style_titles": [
-  "20th Century"
-],
-"classification_id": "TM-240",
-"classification_title": "photograph",
-"alt_classification_ids": [
-  "TM-213",
-  "TM-68",
-  "TM-67",
-  "TM-966"
-],
-"classification_ids": [
-  "TM-240",
-  "TM-213",
-  "TM-68",
-  "TM-67",
-  "TM-966"
-],
-"classification_titles": [
-  "photograph",
-  "gelatin silver (developing-out-paper) pr",
-  "photographic process",
-  "photography",
-  "gelatin silver print"
-],
-"subject_id": "TM-12075",
-"alt_subject_ids": [
-  "TM-12272",
-  "TM-8646"
-],
-"subject_ids": [
-  "TM-12075",
-  "TM-12272",
-  "TM-8646"
-],
-"subject_titles": [
-  "Chicago",
-  "African American",
-  "portraits: African American subject"
-],
-"material_id": "TM-3046",
-"alt_material_ids": [],
-"material_ids": [
-  "TM-3046"
-],
-"material_titles": [
-  "photographic paper"
-],
-"technique_id": "TM-12089",
-"alt_technique_ids": [
-  "TM-3937",
-  "TM-3977",
-  "TM-3978"
-],
-"technique_ids": [
-  "TM-12089",
-  "TM-3937",
-  "TM-3977",
-  "TM-3978"
-],
-"technique_titles": [
-  "black-and-white photography",
-  "photographic processes",
-  "photographic techniques",
-  "photography"
-],
-"theme_titles": [
-  "African American artists",
-  "African Diaspora"
-],
-"image_id": "11a9b885-38f0-6206-6a40-e49f714aae9b",
-"alt_image_ids": [],
-"document_ids": [],
-"sound_ids": [],
-"video_ids": [],
-"text_ids": [],
-"section_ids": [],
-"section_titles": [],
-"site_ids": [],
-"suggest_autocomplete_all": [
-  {
-    "input": [
-      "2017.443"
-    ],
-    "contexts": {
-      "groupings": [
-        "accession"
-      ]
-    }
-  },
-  {
-    "input": [
-      "Mother's Day, from the series \"Born Hip\""
-    ],
-    "weight": 655,
-    "contexts": {
-      "groupings": [
-        "title"
-      ]
-    }
-  }
-],
-"source_updated_at": "2023-07-20T11:24:38-05:00",
-"updated_at": "2023-07-20T11:25:53-05:00",
-"timestamp": "2023-07-20T11:31:06-05:00"
-},
-{
-"id": 235708,
-"api_model": "artworks",
-"api_link": "https://api.artic.edu/api/v1/artworks/235708",
-"is_boosted": false,
-"title": "Nude Frieze",
-"alt_titles": null,
-"thumbnail": {
-  "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFVYVXNzcnh6e4GCgI2MiI2NjJGQjZqbmZycnJ6enaOjoaajoKyqpre2srW1tLe3tri3tbu6ub++vMHBwMLBwMbFxM3Mys7Ozc7OztPT09TU1NXV1dfX19nZ2dvb29zc3dzd3d3d3d7e3t/f3+Dg4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwM+lYXkUNiTSA3BACDgjUGUhoTA0olCEAFEMMh7PxOBIBDCdIAA7",
-  "width": 5076,
-  "height": 3385,
-  "alt_text": "A work made of 9 drawings, 40 black and white photographs, 4 polaroids, and a pair of goggles."
-},
-"main_reference_number": "2016.214",
-"has_not_been_viewed_much": true,
-"boost_rank": null,
-"date_start": 1972,
-"date_end": 1972,
-"date_display": "1972",
-"date_qualifier_title": "Made",
-"date_qualifier_id": 4,
-"artist_display": "Barbara T. Smith\nAmerican, born 1931",
-"place_of_origin": null,
-"dimensions": "Dimensions vary with installation",
-"dimensions_detail": [],
-"medium_display": "9 drawings, 40 black and white photographs, 4 Polaroids, and a pair of goggles",
-"inscriptions": null,
-"credit_line": "Gift of Society for Contemporary Art",
-"catalogue_display": null,
-"publication_history": null,
-"exhibition_history": null,
-"provenance_text": null,
-"edition": null,
-"publishing_verification_level": "Web Basic",
-"internal_department_id": 246,
-"fiscal_year": 2017,
-"fiscal_year_deaccession": null,
-"is_public_domain": false,
-"is_zoomable": false,
-"max_zoom_window_size": 843,
-"copyright_notice": null,
-"has_multimedia_resources": false,
-"has_educational_resources": false,
-"has_advanced_imaging": false,
-"colorfulness": 4.4967,
-"color": {
-  "h": 52,
-  "l": 46,
-  "s": 0,
-  "percentage": 0.04411460510040822,
-  "population": 209
-},
-"latitude": null,
-"longitude": null,
-"latlon": null,
-"is_on_view": false,
-"on_loan_display": null,
-"gallery_title": null,
-"gallery_id": null,
-"artwork_type_title": "Photograph",
-"artwork_type_id": 2,
-"department_title": "Contemporary Art",
-"department_id": "PC-8",
-"artist_id": 107196,
-"artist_title": "Barbara T. Smith",
-"alt_artist_ids": [],
-"artist_ids": [
-  107196
-],
-"artist_titles": [
-  "Barbara T. Smith"
-],
-"category_ids": [
-  "PC-825",
-  "PC-8"
-],
-"category_titles": [
-  "Women artists",
-  "Contemporary Art"
-],
-"term_titles": [
-  "photograph",
-  "photography"
-],
-"style_id": null,
-"style_title": null,
-"alt_style_ids": [],
-"style_ids": [],
-"style_titles": [],
-"classification_id": "TM-240",
-"classification_title": "photograph",
-"alt_classification_ids": [
-  "TM-67"
-],
-"classification_ids": [
-  "TM-240",
-  "TM-67"
-],
-"classification_titles": [
-  "photograph",
-  "photography"
-],
-"subject_id": null,
-"alt_subject_ids": [],
-"subject_ids": [],
-"subject_titles": [],
-"material_id": null,
-"alt_material_ids": [],
-"material_ids": [],
-"material_titles": [],
-"technique_id": null,
-"alt_technique_ids": [],
-"technique_ids": [],
-"technique_titles": [],
-"theme_titles": [
-  "Women artists"
-],
-"image_id": "d8c08c76-d0d1-397b-806a-5f59994fa2d2",
-"alt_image_ids": [],
-"document_ids": [],
-"sound_ids": [],
-"video_ids": [],
-"text_ids": [],
-"section_ids": [],
-"section_titles": [],
-"site_ids": [],
-"suggest_autocomplete_all": [
-  {
-    "input": [
-      "2016.214"
-    ],
-    "contexts": {
-      "groupings": [
-        "accession"
-      ]
-    }
-  },
-  {
-    "input": [
-      "Nude Frieze"
-    ],
-    "weight": 12,
-    "contexts": {
-      "groupings": [
-        "title"
-      ]
-    }
-  }
-],
-"source_updated_at": "2023-07-20T11:16:23-05:00",
-"updated_at": "2023-07-20T11:20:51-05:00",
-"timestamp": "2023-07-20T11:31:06-05:00"
-},
-{
-"id": 228332,
-"api_model": "artworks",
-"api_link": "https://api.artic.edu/api/v1/artworks/228332",
-"is_boosted": false,
-"title": "No. 560",
-"alt_titles": null,
-"thumbnail": {
-  "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAFLcRJVeCVNajpZbSlceURTYE9cYVFbYlRdYFVdYUVfcVtgYV5hYl5mZlBibExoeFdpcVBqeGBnZiBnjD98m05wgk9yhVN1iEt7lGJ9iV2Aj2aMnW6VpGWVrAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoFAMRAAoR8JUk4NIi0U9UBNdWJcZGreFADs=",
-  "width": 6340,
-  "height": 5114,
-  "alt_text": "A work made of chromogenic print."
-},
-"main_reference_number": "2015.73",
-"has_not_been_viewed_much": true,
-"boost_rank": null,
-"date_start": 2008,
-"date_end": 2008,
-"date_display": "January/February, 2008",
-"date_qualifier_title": "Made",
-"date_qualifier_id": 4,
-"artist_display": "Jean-Luc Mylayne\nFrench, born 1946",
-"place_of_origin": "France",
-"dimensions": "Frame: 185.7 × 231.1 cm (73 1/8 × 91 in.)",
-"dimensions_detail": [
-  {
-    "depth_cm": 0,
-    "depth_in": 0,
-    "width_cm": 231.1,
-    "width_in": 90.9843,
-    "height_cm": 185.7,
-    "height_in": 73.1103,
-    "diameter_cm": 0,
-    "diameter_in": 0,
-    "clarification": "Frame"
-  }
-],
-"medium_display": "Chromogenic print",
-"inscriptions": null,
-"credit_line": "Purchased with funds provided by Lannan Foundation; through prior gifts of the Vision Gallery, Mrs. Daniel Brenner, Helen Harvey Mills, and John Szarkowski and Pace MacGill Gallery",
-"catalogue_display": null,
-"publication_history": null,
-"exhibition_history": null,
-"provenance_text": null,
-"edition": null,
-"publishing_verification_level": "Web Basic",
-"internal_department_id": 20,
-"fiscal_year": 2015,
-"fiscal_year_deaccession": null,
-"is_public_domain": false,
-"is_zoomable": true,
-"max_zoom_window_size": 1280,
-"copyright_notice": "© 2008 Jean-Luc Mylayne",
-"has_multimedia_resources": false,
-"has_educational_resources": false,
-"has_advanced_imaging": false,
-"colorfulness": 0,
-"color": {
-  "h": 200,
-  "l": 45,
-  "s": 42,
-  "percentage": 0.0025506773636790945,
-  "population": 827
-},
-"latitude": null,
-"longitude": null,
-"latlon": null,
-"is_on_view": false,
-"on_loan_display": null,
-"gallery_title": null,
-"gallery_id": null,
-"artwork_type_title": "Photograph",
-"artwork_type_id": 2,
-"department_title": "Photography and Media",
-"department_id": "PC-12",
-"artist_id": 95709,
-"artist_title": "Jean-Luc Mylayne",
-"alt_artist_ids": [],
-"artist_ids": [
-  95709
-],
-"artist_titles": [
-  "Jean-Luc Mylayne"
-],
-"category_ids": [
-  "PC-12"
-],
-"category_titles": [
-  "Photography and Media"
-],
-"term_titles": [
-  "photograph",
-  "21st Century",
-  "chromogenic color print",
-  "photography"
-],
-"style_id": "TM-12913",
-"style_title": "21st Century",
-"alt_style_ids": [],
-"style_ids": [
-  "TM-12913"
-],
-"style_titles": [
-  "21st Century"
-],
-"classification_id": "TM-240",
-"classification_title": "photograph",
-"alt_classification_ids": [
-  "TM-558",
-  "TM-67"
-],
-"classification_ids": [
-  "TM-240",
-  "TM-558",
-  "TM-67"
-],
-"classification_titles": [
-  "photograph",
-  "chromogenic color print",
-  "photography"
-],
-"subject_id": null,
-"alt_subject_ids": [],
-"subject_ids": [],
-"subject_titles": [],
-"material_id": null,
-"alt_material_ids": [],
-"material_ids": [],
-"material_titles": [],
-"technique_id": null,
-"alt_technique_ids": [],
-"technique_ids": [],
-"technique_titles": [],
-"theme_titles": [],
-"image_id": "f6eba14b-f115-91cc-805f-6a3ba6e6b071",
-"alt_image_ids": [
-  "aa6d3ebe-b71c-3134-89e0-98cdd1900b68"
-],
-"document_ids": [],
-"sound_ids": [],
-"video_ids": [],
-"text_ids": [],
-"section_ids": [],
-"section_titles": [],
-"site_ids": [],
-"suggest_autocomplete_all": [
-  {
-    "input": [
-      "2015.73"
-    ],
-    "contexts": {
-      "groupings": [
-        "accession"
-      ]
-    }
-  },
-  {
-    "input": [
-      "No. 560"
-    ],
-    "weight": 1,
-    "contexts": {
-      "groupings": [
-        "title"
-      ]
-    }
-  }
-],
-"source_updated_at": "2023-07-20T11:17:18-05:00",
-"updated_at": "2023-07-20T11:20:51-05:00",
-"timestamp": "2023-07-20T11:31:06-05:00"
-},
-{
-"id": 202156,
-"api_model": "artworks",
-"api_link": "https://api.artic.edu/api/v1/artworks/202156",
-"is_boosted": false,
-"title": "New Kids on the Bike",
-"alt_titles": null,
-"thumbnail": {
-  "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAAAAE5BR1lOSmRaX3tmWn9nWoFhWZ14Xp98XKZ5VaR9WJV2YKqDZa6FaayFbrSHYbCJaKiJdquKdrKOd7OPeLGPermUc7SRermYhsCbhMOghsuunNawl8+zoAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIEBwWnMIW3RZSNYNAaRQmFEsz1RJDpOEADs=",
-  "width": 500,
-  "height": 400,
-  "alt_text": "A work made of digital animation, color, sound; 1 min. 22 sec.; edition 5 of 5, with 2 artist's proofs."
-},
-"main_reference_number": "2009.748",
-"has_not_been_viewed_much": true,
-"boost_rank": null,
-"date_start": 2002,
-"date_end": 2002,
-"date_display": "2002",
-"date_qualifier_title": "",
-"date_qualifier_id": null,
-"artist_display": "Robin Rhode\nSouth African, born 1974",
-"place_of_origin": null,
-"dimensions": null,
-"dimensions_detail": [],
-"medium_display": "Digital animation, color, sound; 1 min. 22 sec.; edition 5 of 5, with 2 artist's proofs",
-"inscriptions": null,
-"credit_line": "Gift of Igor M. DaCosta",
-"catalogue_display": null,
-"publication_history": null,
-"exhibition_history": null,
-"provenance_text": null,
-"edition": null,
-"publishing_verification_level": "Web Basic",
-"internal_department_id": 246,
-"fiscal_year": 2010,
-"fiscal_year_deaccession": null,
-"is_public_domain": false,
-"is_zoomable": false,
-"max_zoom_window_size": 843,
-"copyright_notice": null,
-"has_multimedia_resources": false,
-"has_educational_resources": false,
-"has_advanced_imaging": false,
-"colorfulness": 37.5054,
-"color": {
-  "h": 8,
-  "l": 38,
-  "s": 46,
-  "percentage": 0.0014079995494401445,
-  "population": 8
-},
-"latitude": null,
-"longitude": null,
-"latlon": null,
-"is_on_view": false,
-"on_loan_display": null,
-"gallery_title": null,
-"gallery_id": null,
-"artwork_type_title": "Film, Video, New Media",
-"artwork_type_id": 33,
-"department_title": "Contemporary Art",
-"department_id": "PC-8",
-"artist_id": 107977,
-"artist_title": "Robin Rhode",
-"alt_artist_ids": [],
-"artist_ids": [
-  107977
-],
-"artist_titles": [
-  "Robin Rhode"
-],
-"category_ids": [
-  "PC-8"
-],
-"category_titles": [
-  "Contemporary Art"
-],
-"term_titles": [
-  "time-based works",
-  "film (material)",
-  "animation",
-  "21st Century",
-  "film"
-],
-"style_id": "TM-12913",
-"style_title": "21st Century",
-"alt_style_ids": [],
-"style_ids": [
-  "TM-12913"
-],
-"style_titles": [
-  "21st Century"
-],
-"classification_id": "TM-12314",
-"classification_title": "time-based works",
-"alt_classification_ids": [
-  "TM-12320"
-],
-"classification_ids": [
-  "TM-12314",
-  "TM-12320"
-],
-"classification_titles": [
-  "time-based works",
-  "film"
-],
-"subject_id": null,
-"alt_subject_ids": [],
-"subject_ids": [],
-"subject_titles": [],
-"material_id": "TM-2950",
-"alt_material_ids": [],
-"material_ids": [
-  "TM-2950"
-],
-"material_titles": [
-  "film (material)"
-],
-"technique_id": "TM-3952",
-"alt_technique_ids": [],
-"technique_ids": [
-  "TM-3952"
-],
-"technique_titles": [
-  "animation"
-],
-"theme_titles": [],
-"image_id": "099110d9-03ca-8070-c4f8-70363c52d273",
-"alt_image_ids": [],
-"document_ids": [],
-"sound_ids": [],
-"video_ids": [],
-"text_ids": [],
-"section_ids": [],
-"section_titles": [],
-"site_ids": [],
-"suggest_autocomplete_all": [
-  {
-    "input": [
-      "2009.748"
-    ],
-    "contexts": {
-      "groupings": [
-        "accession"
-      ]
-    }
-  },
-  {
-    "input": [
-      "New Kids on the Bike"
-    ],
-    "weight": 142,
-    "contexts": {
-      "groupings": [
-        "title"
-      ]
-    }
-  }
-],
-"source_updated_at": "2023-07-20T11:18:32-05:00",
-"updated_at": "2023-07-20T11:20:50-05:00",
-"timestamp": "2023-07-20T11:31:06-05:00"
-},
-{
-"id": 240824,
-"api_model": "artworks",
-"api_link": "https://api.artic.edu/api/v1/artworks/240824",
-"is_boosted": false,
-"title": "\"El Dorado,\" Latino Gay Bar, Chicago",
-"alt_titles": null,
-"thumbnail": {
-  "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAAIMCQsRCw4RDA0TDRATDBIVDhIVDxEXDxsUDhMVEBMXEBoXEBkaEh4ZEhwbEhgcFBkcFyEdExwkHysgFCkgFyQkGiUoHi4qGy4qISksITo1I0MsHFEvHkswHkMwIE4xIEo4KlY+LgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwAREAgphKoYC4OMJaASNSGeiuFgQGw7l4MgQBgvGoxAEADs=",
-  "width": 5956,
-  "height": 4058,
-  "alt_text": "A work made of silver dye-bleach print."
-},
-"main_reference_number": "2019.67",
-"has_not_been_viewed_much": true,
-"boost_rank": null,
-"date_start": 1977,
-"date_end": 1977,
-"date_display": "1977",
-"date_qualifier_title": "Made",
-"date_qualifier_id": 4,
-"artist_display": "Luis Medina \nAmerican, born Cuba, 1942–1985",
-"place_of_origin": null,
-"dimensions": "Image approx: 23 × 33.5 cm (9 1/16 × 13 1/4 in.); Paper: 27.6 × 35.3 cm (10 7/8 × 13 15/16 in.)",
-"dimensions_detail": [
-  {
-    "depth_cm": 0,
-    "depth_in": 0,
-    "width_cm": 33.5,
-    "width_in": 13.189,
-    "height_cm": 23,
-    "height_in": 9.0552,
-    "diameter_cm": 0,
-    "diameter_in": 0,
-    "clarification": "Image approx"
-  },
-  {
-    "depth_cm": 0,
-    "depth_in": 0,
-    "width_cm": 35.3,
-    "width_in": 13.8977,
-    "height_cm": 27.6,
-    "height_in": 10.8662,
-    "diameter_cm": 0,
-    "diameter_in": 0,
-    "clarification": "Paper"
-  }
-],
-"medium_display": "Silver dye-bleach print",
-"inscriptions": null,
-"credit_line": "Purchased with funds provided by Lucia Woods Lindley and Daniel A. Lindley, Jr.",
-"catalogue_display": null,
-"publication_history": null,
-"exhibition_history": null,
-"provenance_text": null,
-"edition": null,
-"publishing_verification_level": "Web Basic",
-"internal_department_id": 20,
-"fiscal_year": 2019,
-"fiscal_year_deaccession": null,
-"is_public_domain": false,
-"is_zoomable": false,
-"max_zoom_window_size": 843,
-"copyright_notice": null,
-"has_multimedia_resources": false,
-"has_educational_resources": false,
-"has_advanced_imaging": false,
-"colorfulness": 27.3773,
-"color": {
-  "h": 3,
-  "l": 48,
-  "s": 66,
-  "percentage": 0.004570450376335039,
-  "population": 22
-},
-"latitude": null,
-"longitude": null,
-"latlon": null,
-"is_on_view": false,
-"on_loan_display": null,
-"gallery_title": null,
-"gallery_id": null,
-"artwork_type_title": "Photograph",
-"artwork_type_id": 2,
-"department_title": "Photography and Media",
-"department_id": "PC-12",
-"artist_id": 35721,
-"artist_title": "Luis Medina",
-"alt_artist_ids": [],
-"artist_ids": [
-  35721
-],
-"artist_titles": [
-  "Luis Medina"
-],
-"category_ids": [
-  "PC-829",
-  "PC-154",
-  "PC-12"
-],
-"category_titles": [
-  "Latin American",
-  "Chicago Artists",
-  "Photography and Media"
-],
-"term_titles": [
-  "color photograph",
-  "color photography",
-  "20th Century",
-  "photograph",
-  "photography"
-],
-"style_id": "TM-13130",
-"style_title": "20th Century",
-"alt_style_ids": [],
-"style_ids": [
-  "TM-13130"
-],
-"style_titles": [
-  "20th Century"
-],
-"classification_id": "TM-12091",
-"classification_title": "color photograph",
-"alt_classification_ids": [
-  "TM-240",
-  "TM-67"
-],
-"classification_ids": [
-  "TM-12091",
-  "TM-240",
-  "TM-67"
-],
-"classification_titles": [
-  "color photograph",
-  "photograph",
-  "photography"
-],
-"subject_id": null,
-"alt_subject_ids": [],
-"subject_ids": [],
-"subject_titles": [],
-"material_id": null,
-"alt_material_ids": [],
-"material_ids": [],
-"material_titles": [],
-"technique_id": "TM-13061",
-"alt_technique_ids": [],
-"technique_ids": [
-  "TM-13061"
-],
-"technique_titles": [
-  "color photography"
-],
-"theme_titles": [
-  "Latin American",
-  "Chicago Artists"
-],
-"image_id": "e9cd6e04-00b0-44c2-61e8-72b795ce4f16",
-"alt_image_ids": [
-  "ddb84e18-ce4f-d1ad-d0b0-3bea107424ce"
-],
-"document_ids": [],
-"sound_ids": [],
-"video_ids": [],
-"text_ids": [],
-"section_ids": [],
-"section_titles": [],
-"site_ids": [],
-"suggest_autocomplete_all": [
-  {
-    "input": [
-      "2019.67"
-    ],
-    "contexts": {
-      "groupings": [
-        "accession"
-      ]
-    }
-  },
-  {
-    "input": [
-      "\"El Dorado,\" Latino Gay Bar, Chicago"
-    ],
-    "weight": 1,
-    "contexts": {
-      "groupings": [
-        "title"
-      ]
-    }
-  }
-],
-"source_updated_at": "2023-07-20T11:15:36-05:00",
-"updated_at": "2023-07-20T11:15:49-05:00",
-"timestamp": "2023-07-20T11:31:06-05:00"
-},
-{
-"id": 204252,
-"api_model": "artworks",
-"api_link": "https://api.artic.edu/api/v1/artworks/204252",
-"is_boosted": false,
-"title": "Parallel Lines. Race (with Zoltán Lábas); Interaction for Two Cameras 1-8, with Explanation (Párhuzamos vonalak. Versenyfutás (Lábas Zoltánnal); Interakció 2 kamerára, magyarázattal)",
-"alt_titles": null,
-"thumbnail": null,
-"main_reference_number": "2010.494",
-"has_not_been_viewed_much": true,
-"boost_rank": null,
-"date_start": 1977,
-"date_end": 1977,
-"date_display": "1977",
-"date_qualifier_title": "Made",
-"date_qualifier_id": 4,
-"artist_display": "Dóra Maurer\nHungarian, born 1937",
-"place_of_origin": "Hungary",
-"dimensions": "Each: 40 × 30 cm (15 3/4 × 11 13/16 in.)",
-"dimensions_detail": [
-  {
-    "depth_cm": 0,
-    "depth_in": 0,
-    "width_cm": 30,
-    "width_in": 11.8111,
-    "height_cm": 40,
-    "height_in": 15.7481,
-    "diameter_cm": 0,
-    "diameter_in": 0,
-    "clarification": "Each"
-  }
-],
-"medium_display": "Gelatin silver prints (8) and graphite drawing on paper",
-"inscriptions": null,
-"credit_line": "Photography Gala Fund",
-"catalogue_display": null,
-"publication_history": null,
-"exhibition_history": null,
-"provenance_text": null,
-"edition": null,
-"publishing_verification_level": "Web Basic",
-"internal_department_id": 20,
-"fiscal_year": 2011,
-"fiscal_year_deaccession": null,
-"is_public_domain": false,
-"is_zoomable": false,
-"max_zoom_window_size": 843,
-"copyright_notice": null,
-"has_multimedia_resources": false,
-"has_educational_resources": false,
-"has_advanced_imaging": false,
-"colorfulness": null,
-"color": null,
-"latitude": null,
-"longitude": null,
-"latlon": null,
-"is_on_view": false,
-"on_loan_display": null,
-"gallery_title": null,
-"gallery_id": null,
-"artwork_type_title": "Photograph",
-"artwork_type_id": 2,
-"department_title": "Photography and Media",
-"department_id": "PC-12",
-"artist_id": 110383,
-"artist_title": "Dóra Maurer",
-"alt_artist_ids": [],
-"artist_ids": [
-  110383
-],
-"artist_titles": [
-  "Dóra Maurer"
-],
-"category_ids": [
-  "PC-12",
-  "PC-825"
-],
-"category_titles": [
-  "Photography and Media",
-  "Women artists"
-],
-"term_titles": [
-  "photograph",
-  "paper (fiber product)",
-  "black-and-white photography",
-  "photography",
-  "photographic processes",
-  "photographic techniques",
-  "photography"
-],
-"style_id": null,
-"style_title": null,
-"alt_style_ids": [],
-"style_ids": [],
-"style_titles": [],
-"classification_id": "TM-240",
-"classification_title": "photograph",
-"alt_classification_ids": [
-  "TM-67"
-],
-"classification_ids": [
-  "TM-240",
-  "TM-67"
-],
-"classification_titles": [
-  "photograph",
-  "photography"
-],
-"subject_id": null,
-"alt_subject_ids": [],
-"subject_ids": [],
-"subject_titles": [],
-"material_id": "TM-2982",
-"alt_material_ids": [],
-"material_ids": [
-  "TM-2982"
-],
-"material_titles": [
-  "paper (fiber product)"
-],
-"technique_id": "TM-12089",
-"alt_technique_ids": [
-  "TM-3937",
-  "TM-3977",
-  "TM-3978"
-],
-"technique_ids": [
-  "TM-12089",
-  "TM-3937",
-  "TM-3977",
-  "TM-3978"
-],
-"technique_titles": [
-  "black-and-white photography",
-  "photographic processes",
-  "photographic techniques",
-  "photography"
-],
-"theme_titles": [
-  "Women artists"
-],
-"image_id": null,
-"alt_image_ids": [],
-"document_ids": [],
-"sound_ids": [],
-"video_ids": [],
-"text_ids": [],
-"section_ids": [],
-"section_titles": [],
-"site_ids": [],
-"suggest_autocomplete_all": [
-  {
-    "input": [
-      "2010.494"
-    ],
-    "contexts": {
-      "groupings": [
-        "accession"
-      ]
-    }
-  },
-  {
-    "input": [
-      "Parallel Lines. Race (with Zoltán Lábas); Interaction for Two Cameras 1-8, with Explanation (Párhuzamos vonalak. Versenyfutás (Lábas Zoltánnal); Interakció 2 kamerára, magyarázattal)"
-    ],
-    "weight": 119,
-    "contexts": {
-      "groupings": [
-        "title"
-      ]
-    }
-  }
-],
-"source_updated_at": "2023-07-20T11:12:18-05:00",
-"updated_at": "2023-07-20T11:15:49-05:00",
-"timestamp": "2023-07-20T11:31:06-05:00"
-}
-],
-"info": {
-"license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
-"license_links": [
-"https://creativecommons.org/publicdomain/zero/1.0/",
-"https://www.artic.edu/terms"
-],
-"version": "1.8"
-},
-"config": {
-"iiif_url": "https://www.artic.edu/iiif/2",
-"website_url": "http://www.artic.edu"
-}
 }

@@ -18,4 +18,5 @@ but not currently in use (July 21, 2023)
   - Delete artworks from the database
 
 ## Notes
-- No notes at this time 
+- In seed.js, I have included 2 methods for seeding the data and just commented out one of the methods. Two different methods to do the same thing, just for my own practice.
+- Please don't forget the appropriate slugs when searching for things in the URL (EG: /artist/...  /origin/... etc.)

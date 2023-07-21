@@ -1,16 +1,18 @@
 import { Router } from "express";
 const router = Router()
-// import express from "express";
 
-import { getAll, searchName } from "./controller.js"
+import * as artworkController from "./controller.js"
 
-// all of these point to functions in controller.js
-// remember to change the names below
+// all of these routers point to functions in controller.js
 
-router.get("/", getAll)
-router.get("/:name", searchName)
-// router.get("/:something2", artworkController.something2)
-// router.get("/:something3", artworkController.something3)
+router.get("/", artworkController.getAll)
+router.get("/artist/:name", artworkController.searchName)
+router.get("/title/:title", artworkController.searchTitle)
+router.get("/origin/:origin", artworkController.searchOrigin)
+router.get("/date/:date", artworkController.searchDate)
+router.get("/medium/:medium", artworkController.searchMedium)
+router.get("/id/:id", artworkController.searchImageId)
+
 // router.post("/", artworkController.create)
 // router.put("/:something4", artworkController.edit)
 // router.delete("/:something5", artworkController.remove)
