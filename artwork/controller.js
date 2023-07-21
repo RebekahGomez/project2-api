@@ -1,4 +1,5 @@
 import Artwork from "./model.js"
+import axios from "axios";
 
 // functions go here - connected to artwork/router.js
 export const getAll =
@@ -125,3 +126,22 @@ export const deleteArt =
         res.status(500).json({ error: error.message });
       });
   }
+
+// function for pagination 
+// export const getArtworks =
+//   (req, res) => {
+//     const page = parseInt(req.query.page) || 1;
+//     const limit = parseInt(req.query.limit) || 20;
+
+//     const apiURL = `https://api.artic.edu/api/v1/artworks?page=${page}&limit=${limit}`;
+
+//     axios.get(apiURL)
+//       .then(apiResponse => {
+//         const artworks = apiResponse.data;
+//         res.json(artworks);
+//       })
+//       .catch(error => {
+//         console.log(error);
+//         res.status(500).json({ error: error.message });
+//       })
+//   }
