@@ -1,6 +1,8 @@
 import mongoose from "mongoose"
 
-mongoose.connect("mongodb://localhost/artwork").catch(() => {
+const connectionString = process.env.DB_URL || "mongodb://localhost/artwork"
+
+mongoose.connect(connectionString).catch(() => {
   console.log("Error connecting to MongoDB");
 });
 
