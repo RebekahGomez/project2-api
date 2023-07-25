@@ -1,6 +1,7 @@
 import Artwork from "./artwork/model.js"
 import artworkData from "./artwork/artwork2.json" assert {type: "json"}
 import connection from "./connection.js"
+import fs from 'fs'
 
 // This function transforms the original names for the items in the object
 // and gives them more identifiable names (EG: "artist_title" changes to "artist")
@@ -47,9 +48,10 @@ const transformedData = artworkData.data.map(transformOriginalData);
 // With this method, we call the function at the end
 
 const insertData = async () => {
-  await connection.dropDatabase();
-  await Artwork.insertMany(transformedData);
-  connection.close();
+  // await connection.dropDatabase();
+  // await Artwork.insertMany(transformedData);
+  // connection.close();
+  fs.writeFile("artwork-modded.json", JSON.stringify(transformedData), () => console.log('done'))
 }
 
 insertData();

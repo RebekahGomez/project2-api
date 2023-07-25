@@ -2,7 +2,7 @@ import mongoose from "mongoose"
 
 const connectionString = process.env.DB_URL || "mongodb://localhost/artwork"
 
-mongoose.connect(connectionString).catch(() => {
+mongoose.connect(connectionString, { useNewUrlParser: true, useUnifiedTopology: true }).catch(() => {
   console.log("Error connecting to MongoDB");
 });
 
