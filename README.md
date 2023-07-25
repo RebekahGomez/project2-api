@@ -23,12 +23,8 @@
 | /:id | Delete artworks from the database using Postman
 
 
-
-## Notes
-- In seed.js, I have included 2 methods for seeding the data and commented out one of the methods. Two different methods to do the same thing, just for my own practice.
-- This API uses "type": "module" to use the "import syntax" when connecting files
-
 ## IMAGE URL
+- Each model includes an image URL.  There are some cases where a piece of artwork does not have an associated image (EG: perhaps the artwork has not been digitized). For imageURLs that are "null" or "undefined", the user will be redirected to a [204 error page](https://http.cat/status/204).
 - URL structure for viewing images of the artwork comes from IIIF (International Image Interoperability Framework), which The Art Institute of Chicago uses as a standard for serving images: https://www.artic.edu/iiif/2/$[IMAGE_ID]/full/843,/0/default.jpg
 ### Image URL Breakdown
 - https://www.artic.edu/iiif/2/: This is the base URL for IIIF images from the Art Institute of Chicago.
@@ -37,3 +33,7 @@
 - 843,/: This specifies the size you want.'843,' means a width of 843 pixels and a dynamic height to maintain the aspect ratio. You can change this number to get different widths or use ' ,843' to set the height and have a dynamic width.
 - 0/: This is the rotation in degrees. 0 means no rotation.
 - default.jpg: This is the quality and format. "Default" is typically a good-quality JPEG. There are other options you can specify based on the IIIF standard.
+
+## Notes
+- In seed.js, I have included 2 methods for seeding the data and commented out one of the methods. Two different methods to do the same thing, just for my own practice.
+- This API uses "type": "module" to use the "import syntax" when connecting files

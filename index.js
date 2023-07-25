@@ -1,5 +1,5 @@
 import express from "express";
-import connection from "./connection.js"; // connected to mongodb
+import connection from "./connection.js";
 import router from "./artwork/router.js";
 
 const PORT = process.env.PORT || 3000

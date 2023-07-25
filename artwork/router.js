@@ -3,7 +3,7 @@ const router = Router()
 
 import * as artworkController from "./controller.js"
 
-// all of these routers point to functions in controller.js
+// Routers point to functions in controller.js
 
 router.get("/", artworkController.getAll)
 router.get("/artist/:name", artworkController.searchName)

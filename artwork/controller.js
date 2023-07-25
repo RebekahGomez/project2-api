@@ -1,7 +1,8 @@
 import Artwork from "./model.js"
 import axios from "axios";
 
-// functions go here - connected to artwork/router.js
+// FUNCTIONS - connected to artwork/router.js
+// See all artwork entries
 export const getAll =
   (req, res) => {
     Artwork
@@ -13,6 +14,7 @@ export const getAll =
       });
   }
 
+// Search for artist's name
 export const searchName =
   (req, res) => {
     Artwork
@@ -24,6 +26,7 @@ export const searchName =
       });
   }
 
+// Search for art based on title
 export const searchTitle =
   (req, res) => {
     Artwork
@@ -35,6 +38,7 @@ export const searchTitle =
       });
   }
 
+// Search for art based on origin
 export const searchOrigin =
   (req, res) => {
     Artwork
@@ -46,6 +50,7 @@ export const searchOrigin =
       });
   }
 
+// Search for art with specific date
 export const searchDate =
   (req, res) => {
     Artwork
@@ -57,6 +62,7 @@ export const searchDate =
       });
   }
 
+// Search for art made with specific medium
 export const searchMedium =
   (req, res) => {
     Artwork
@@ -68,6 +74,7 @@ export const searchMedium =
       })
   }
 
+// Search for art based on the associated imageId
 export const searchImageId =
   (req, res) => {
     Artwork
@@ -109,7 +116,7 @@ export const updateArt =
       })
   };
 
-// delete function for removing artwork
+// Delete function for removing artwork
 export const deleteArt =
   (req, res) => {
     const { id } = req.params;
@@ -127,7 +134,7 @@ export const deleteArt =
       });
   }
 
-// function for pagination 
+// function for pagination - not operable
 // export const getArtworks =
 //   (req, res) => {
 //     const page = parseInt(req.query.page) || 1;
