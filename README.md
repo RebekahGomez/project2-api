@@ -3,7 +3,7 @@
 - This API is a collection of 1,000 artwork entries from the Art Institute of Chicago
 - Data was taken from the [Art Institude of Chicago API](https://api.artic.edu/docs/#introduction)
 - [Specific API used](https://api.artic.edu/api/v1/artworks)
-- Base URL for Deployed API using [Vercel](https://project2-api.vercel.app/)
+- Base URL for Deployed API using [Vercel](https://project2-api.vercel.app/) best viewed via Google Chrome
 
 ## Model
 - This API has one model to include the: artist, title of the artwork, origin, date the art was created, the medium used for the artwork, the image ID, and a link to the artwork
