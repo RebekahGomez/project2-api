@@ -1,0 +1,1950 @@
+{
+  "pagination": {
+    "total": 119878,
+    "limit": 100,
+    "offset": 100,
+    "total_pages": 1199,
+    "current_page": 2,
+    "prev_url": "https://api.artic.edu/api/v1/artworks?page=1&limit=100",
+    "next_url": "https://api.artic.edu/api/v1/artworks?page=3&limit=100"
+  },
+  "data": [
+    {
+      "id": 50416,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/50416",
+      "is_boosted": false,
+      "title": "Don Quichotte (Don Quixote) (Furnishing Fabric)",
+      "alt_titles": [],
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAKSBfqmEfaaNi6+Si7GTjLCTjbOVjauWkaqWlLeak66imbyjlbSjmLSkmbSmnbSknrSnn76rn6ylobCnobCoobepoLeupLutob2sormzqbu0q7y2rcGtm8CvpAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIOUISCZdXIR1WhUMQLExi0Ekj9JA1jGFADs=",
+        "width": 5287,
+        "height": 4799,
+        "alt_text": "A work made of cotton, plain weave; copperplate printed."
+      },
+      "main_reference_number": "1976.64a",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1780,
+      "date_end": 1790,
+      "date_display": "c. 1785",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Possibly after design by Jean Jacques Lagrenèe le Jeune (French, 1739–1821) after engravings by Charles Nicolas Cochin l'Aîné (French, 1688–1754), Magdaleine Hortenels Cochin (French, 1683–1767), Jean Baptiste Haussard (French, 1679/80–1749), and Louis Silvestre l'Aîné (French, 1664–1740)\nBased on paintings by Charles Antoine Coypel (French, 1694–1752)\nFrance, Nantes",
+      "place_of_origin": "France",
+      "dimensions": "84.2 × 95.2 cm (33 1/8 × 37 1/2 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 95.2,
+          "width_in": 37.5,
+          "height_cm": 84.2,
+          "height_in": 33.125,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Cotton, plain weave; copperplate printed",
+      "inscriptions": null,
+      "credit_line": "Purchased with funds provided by Mrs. Julian Armstrong, Jr.",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": "Art Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, Engraved Imagery: Literary Subjects on Cloth, Feb. 22–May 14, 1995, brochure.",
+      "provenance_text": "Elinor Merrell (died 1993), Elinor Merrell Antiques, New York, by 1976 [invoice, Apr. 29, 1976; permanent receipt RX10586, May 7, 1976, in curatorial object file, Textiles Department]; sold to the Art Institute of Chicago, 1976",
+      "edition": null,
+      "publishing_verification_level": "Web Everything",
+      "internal_department_id": 4,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 26.6362,
+      "color": {
+        "h": 349,
+        "l": 34,
+        "s": 73,
+        "percentage": 0.011629800200032564,
+        "population": 75
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Textile",
+      "artwork_type_id": 5,
+      "department_title": "Textiles",
+      "department_id": "PC-14",
+      "artist_id": 87083,
+      "artist_title": "Jean-Jacques Lagrenée",
+      "alt_artist_ids": [
+        52584,
+        58007,
+        34060
+      ],
+      "artist_ids": [
+        52584,
+        87083,
+        58007,
+        34060
+      ],
+      "artist_titles": [
+        "Charles Nicolas Cochin, I",
+        "Jean-Jacques Lagrenée",
+        "Louis de Silvestre, II",
+        "Charles-Antoine Coypel"
+      ],
+      "category_ids": [
+        "PC-14"
+      ],
+      "category_titles": [
+        "Textiles"
+      ],
+      "term_titles": [
+        "copperplate printing",
+        "cotton (textile)",
+        "textile",
+        "weaving - printed",
+        "plain weaving",
+        "furnishing textile"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-69",
+      "classification_title": "textile",
+      "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+      ],
+      "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+      ],
+      "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2578",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2578"
+      ],
+      "material_titles": [
+        "cotton (textile)"
+      ],
+      "technique_id": "TM-10517",
+      "alt_technique_ids": [
+        "TM-10513"
+      ],
+      "technique_ids": [
+        "TM-10517",
+        "TM-10513"
+      ],
+      "technique_titles": [
+        "copperplate printing",
+        "plain weaving"
+      ],
+      "theme_titles": [],
+      "image_id": "01ca7d16-87a0-1daa-76a9-9d8f67ad664e",
+      "alt_image_ids": [
+        "86fe9a2b-d87a-d4cd-832a-53fef4a77b0e"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1976.64a"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Don Quichotte (Don Quixote) (Furnishing Fabric)"
+          ],
+          "weight": 149,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T09:32:20-05:00",
+      "updated_at": "2023-07-21T09:35:50-05:00",
+      "timestamp": "2023-07-21T14:46:16-05:00"
+    },
+    {
+      "id": 258461,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/258461",
+      "is_boosted": false,
+      "title": "The Brown Sisters, Brookline, Massachusetts",
+      "alt_titles": null,
+      "thumbnail": null,
+      "main_reference_number": "2020.386",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 2019,
+      "date_end": 2019,
+      "date_display": "2019",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Nicholas Nixon\nAmerican, born 1947",
+      "place_of_origin": "United States",
+      "dimensions": "Image: 19.4 × 24.2 cm (7 5/8 × 9 1/2 in.); Paper: 20.4 × 25.4 cm (8 × 10 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 24.2,
+          "width_in": 9.5,
+          "height_cm": 19.4,
+          "height_in": 7.625,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Image"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 25.4,
+          "width_in": 10,
+          "height_cm": 20.4,
+          "height_in": 8,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Paper"
+        }
+      ],
+      "medium_display": "Gelatin silver print",
+      "inscriptions": null,
+      "credit_line": "Purchased with funds provided by Robin and Sandy Stuart",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": "19 of 50",
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 20,
+      "fiscal_year": 2021,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": null,
+      "color": null,
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Photography and Media",
+      "department_id": "PC-12",
+      "artist_id": 36030,
+      "artist_title": "Nicholas Nixon",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        36030
+      ],
+      "artist_titles": [
+        "Nicholas Nixon"
+      ],
+      "category_ids": [
+        "PC-12"
+      ],
+      "category_titles": [
+        "Photography and Media"
+      ],
+      "term_titles": [
+        "black-and-white photography",
+        "photography",
+        "portrait",
+        "photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography",
+        "photograph",
+        "photographic process",
+        "portraits: multiple subjects",
+        "portraits: female subject",
+        "portraits",
+        "photograph",
+        "photographic images",
+        "photographic paper",
+        "photographic print"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-67",
+      "classification_title": "photography",
+      "alt_classification_ids": [
+        "TM-240",
+        "TM-68"
+      ],
+      "classification_ids": [
+        "TM-67",
+        "TM-240",
+        "TM-68"
+      ],
+      "classification_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+      ],
+      "subject_id": "TM-14105",
+      "alt_subject_ids": [
+        "TM-8591",
+        "TM-8582",
+        "TM-8658"
+      ],
+      "subject_ids": [
+        "TM-14105",
+        "TM-8591",
+        "TM-8582",
+        "TM-8658"
+      ],
+      "subject_titles": [
+        "portrait",
+        "portraits: multiple subjects",
+        "portraits: female subject",
+        "portraits"
+      ],
+      "material_id": "TM-14147",
+      "alt_material_ids": [
+        "TM-13858",
+        "TM-13158",
+        "TM-3046",
+        "TM-13906"
+      ],
+      "material_ids": [
+        "TM-14147",
+        "TM-13858",
+        "TM-13158",
+        "TM-3046",
+        "TM-13906"
+      ],
+      "material_titles": [
+        "photography",
+        "photograph",
+        "photographic images",
+        "photographic paper",
+        "photographic print"
+      ],
+      "technique_id": "TM-12089",
+      "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+      ],
+      "theme_titles": [],
+      "image_id": null,
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2020.386"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "The Brown Sisters, Brookline, Massachusetts"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T09:35:07-05:00",
+      "updated_at": "2023-07-21T09:35:49-05:00",
+      "timestamp": "2023-07-21T14:46:17-05:00"
+    },
+    {
+      "id": 50413,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/50413",
+      "is_boosted": false,
+      "title": "Le Tombeau de Jean Jacques Rousseau (The Tomb of Jean Jacques Rousseau) (Furnishing Fabric)",
+      "alt_titles": [],
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIRia5Bkb45weKaMka6MkriRlr2Xmbqdn86hp8mmptO0tuzDvt/Fw+rIw+vKyAAAACH5BAAAAAAALAAAAAADAAUAAAQLcByBmmErKVcCAREAOw==",
+        "width": 897,
+        "height": 1582,
+        "alt_text": "A work made of cotton, plain weave; copperplate printed."
+      },
+      "main_reference_number": "1976.63a-c",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1778,
+      "date_end": 1785,
+      "date_display": "after 1778",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Designed by Jean Baptiste Huet (French, 1745–1811) after Jean Michel Moreau, the Younger (French, 1741–1814)\nManufactured by Gorgerat Frères et Cie (French, 1783, 1815)\nFrance, Nantes",
+      "place_of_origin": "Nantes",
+      "dimensions": "a: 189.6 × 96.2 cm (74 5/8 × 37 7/8 in.); b: 189.2 × 33.4 cm (74 1/2 × 13 1/8 in.); c: 183.9 × 22.8 cm (72 3/8 × 9 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 96.2,
+          "width_in": 37.875,
+          "height_cm": 189.6,
+          "height_in": 74.625,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "a"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 33.4,
+          "width_in": 13.125,
+          "height_cm": 189.2,
+          "height_in": 74.5,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "b"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 22.8,
+          "width_in": 9,
+          "height_cm": 183.9,
+          "height_in": 72.375,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "c"
+        }
+      ],
+      "medium_display": "Cotton, plain weave; copperplate printed",
+      "inscriptions": "Inscription: Tombeau de J. Jacques Rousseau",
+      "credit_line": "Purchased with funds provided by Mrs. Julian Armstrong, Jr.",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": "Art Institute of Chicago, Selected Textile Acquisitions Since 1973, Dec.15, 1977–Mar. 26, 1978.\n\nArt Institute of Chicago, Elizabeth F. Cheney and Agnes Allerton Textile Galleries, Engraved Imagery: Literary Subjects on Cloth, Feb. 22–May 14, 1995, brochure [a only].",
+      "provenance_text": "Elinor Merrell (died 1993), Elinor Merrell Antiques, New York, by 1976 [invoice, Apr. 29, 1976; permanent receipt RX10586, May 7, 1976, in curatorial object file, Textiles Department]; sold to the Art Institute of Chicago, 1976",
+      "edition": null,
+      "publishing_verification_level": "Web Everything",
+      "internal_department_id": 4,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 41.4678,
+      "color": {
+        "h": 345,
+        "l": 51,
+        "s": 47,
+        "percentage": 0.00414824884068411,
+        "population": 52
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Textile",
+      "artwork_type_id": 5,
+      "department_title": "Textiles",
+      "department_id": "PC-14",
+      "artist_id": 35013,
+      "artist_title": "Jean Baptiste Huet",
+      "alt_artist_ids": [
+        35825,
+        90067
+      ],
+      "artist_ids": [
+        35013,
+        35825,
+        90067
+      ],
+      "artist_titles": [
+        "Jean Baptiste Huet",
+        "Jean Michel Moreau, the Younger",
+        "Gorgerat Frères et Cie."
+      ],
+      "category_ids": [
+        "PC-14"
+      ],
+      "category_titles": [
+        "Textiles"
+      ],
+      "term_titles": [
+        "copperplate printing",
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-69",
+      "classification_title": "textile",
+      "alt_classification_ids": [
+        "TM-353",
+        "TM-14729"
+      ],
+      "classification_ids": [
+        "TM-69",
+        "TM-353",
+        "TM-14729"
+      ],
+      "classification_titles": [
+        "textile",
+        "weaving - printed",
+        "furnishing textile"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": "TM-10517",
+      "alt_technique_ids": [],
+      "technique_ids": [
+        "TM-10517"
+      ],
+      "technique_titles": [
+        "copperplate printing"
+      ],
+      "theme_titles": [],
+      "image_id": "bcddb817-e501-515d-d33d-9a369c422591",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1976.63a-c"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Le Tombeau de Jean Jacques Rousseau (The Tomb of Jean Jacques Rousseau) (Furnishing Fabric)"
+          ],
+          "weight": 158,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T09:30:07-05:00",
+      "updated_at": "2023-07-21T09:30:53-05:00",
+      "timestamp": "2023-07-21T14:46:17-05:00"
+    },
+    {
+      "id": 105306,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/105306",
+      "is_boosted": false,
+      "title": "Design for Salt Dish No. 1700",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAALOZY7uaYb2jb7ujcb2ndr6nd8edX8acYMabZMKiaMCmb8WlbMSmbsGmcMCoc8CodMWrd8KqecSqeMWtecmwfMqxf8myfsuyfsWvgMaugMmxgcq0gcy1g8qyhAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYKZxxCBVF+UoDWZt0wMVzBIAQoccRhKFADs=",
+        "width": 3000,
+        "height": 2348,
+        "alt_text": "A work made of black ink on tan wove paper."
+      },
+      "main_reference_number": "1986.198",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1867,
+      "date_end": 1868,
+      "date_display": "1867/68",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Tiffany and Company\nAmerican, founded 1837",
+      "place_of_origin": "United States",
+      "dimensions": "13.3 × 17.5 cm (5 1/4 × 6 15/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 17.5,
+          "width_in": 6.8898,
+          "height_cm": 13.3,
+          "height_in": 5.2363,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Black ink on tan wove paper",
+      "inscriptions": null,
+      "credit_line": "Gift of Tiffany and Company",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 3,
+      "fiscal_year": 1986,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 43.9548,
+      "color": {
+        "h": 37,
+        "l": 62,
+        "s": 49,
+        "percentage": 1.1592796290305187,
+        "population": 6450
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 36977,
+      "artist_title": "Tiffany and Company",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        36977
+      ],
+      "artist_titles": [
+        "Tiffany and Company"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "prints and drawing",
+        "paper (fiber product)",
+        "paper"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-4",
+      "classification_title": "prints and drawing",
+      "alt_classification_ids": [
+        "TM-145"
+      ],
+      "classification_ids": [
+        "TM-4",
+        "TM-145"
+      ],
+      "classification_titles": [
+        "prints and drawing",
+        "paper"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2982"
+      ],
+      "material_titles": [
+        "paper (fiber product)"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "bddff5e1-49a5-4f83-beb0-99861de4c47f",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1986.198"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Design for Salt Dish No. 1700"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T08:56:07-05:00",
+      "updated_at": "2023-07-21T09:01:03-05:00",
+      "timestamp": "2023-07-21T14:46:17-05:00"
+    },
+    {
+      "id": 105307,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/105307",
+      "is_boosted": false,
+      "title": "Hammering, Mounting and Engraving Design for Pitcher No. 5051",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAKuKUK2KUqqMV66OV62QWrKRWrKTXLOTXLaSXLaWXbeXX76bXrmZYLmZYbqaYbqYYrqaYrubYrybYrydYrqbZb2bZL+fZ7+gZrigc8CcX8WdXsCfYsGfYsCfZ8KfaMGfa8OiZsOjZsOiZ8KhaMSja8Wja8akasWod8aqe8eviMqwggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwE/H4mCINBlVpWQChTibRePkIY0uEwWEgkI8JJFEYUBIBQ4GQSIBwAQBADs=",
+        "width": 3000,
+        "height": 1684,
+        "alt_text": "A work made of black and red ink, and colored pencils, on tan wove paper."
+      },
+      "main_reference_number": "1986.199",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1878,
+      "date_end": 1878,
+      "date_display": "1878",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Tiffany and Company\nAmerican, founded 1837",
+      "place_of_origin": "United States",
+      "dimensions": "33.3 × 59.7 cm (13 1/8 × 23 9/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 59.7,
+          "width_in": 23.504,
+          "height_cm": 33.3,
+          "height_in": 13.1103,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Black and red ink, and colored pencils, on tan wove paper",
+      "inscriptions": null,
+      "credit_line": "Gift of Tiffany and Company",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 3,
+      "fiscal_year": 1986,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 41.1898,
+      "color": {
+        "h": 40,
+        "l": 70,
+        "s": 78,
+        "percentage": 0.005517393583271263,
+        "population": 22
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 36977,
+      "artist_title": "Tiffany and Company",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        36977
+      ],
+      "artist_titles": [
+        "Tiffany and Company"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "prints and drawing",
+        "paper (fiber product)",
+        "paper"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-4",
+      "classification_title": "prints and drawing",
+      "alt_classification_ids": [
+        "TM-145"
+      ],
+      "classification_ids": [
+        "TM-4",
+        "TM-145"
+      ],
+      "classification_titles": [
+        "prints and drawing",
+        "paper"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2982"
+      ],
+      "material_titles": [
+        "paper (fiber product)"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "69bbaf01-eabf-76e2-a587-ce2df4045214",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1986.199"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Hammering, Mounting and Engraving Design for Pitcher No. 5051"
+          ],
+          "weight": 9,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T08:56:34-05:00",
+      "updated_at": "2023-07-21T09:01:02-05:00",
+      "timestamp": "2023-07-21T14:46:17-05:00"
+    },
+    {
+      "id": 105305,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/105305",
+      "is_boosted": false,
+      "title": "Design for Compotier No. 6873",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAL6eYryeZLyfZMqfYMGiZcKiZsSjZ8elZMWlZsakZsekZselZ8ChaMGja8OjasWjaMemaMamacSlasamasana8ena8enbMqiacimaMmnasmqa8yqbsWodMuqcgAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYLdl0HA9C5YchqVElSY5xUQhANcEAsGEADs=",
+        "width": 3000,
+        "height": 2351,
+        "alt_text": "A work made of black ink and pencil on tan wove paper."
+      },
+      "main_reference_number": "1986.197",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1882,
+      "date_end": 1883,
+      "date_display": "1882/83",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Tiffany and Company\nAmerican, founded 1837",
+      "place_of_origin": "United States",
+      "dimensions": "25.1 × 32.4 cm (9 15/16 × 12 13/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 32.4,
+          "width_in": 12.756,
+          "height_cm": 25.1,
+          "height_in": 9.8819,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Black ink and pencil on tan wove paper",
+      "inscriptions": null,
+      "credit_line": "Gift of Tiffany and Company",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 3,
+      "fiscal_year": 1986,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 44.4504,
+      "color": {
+        "h": 21,
+        "l": 44,
+        "s": 85,
+        "percentage": 0.010244796721665048,
+        "population": 57
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 36977,
+      "artist_title": "Tiffany and Company",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        36977
+      ],
+      "artist_titles": [
+        "Tiffany and Company"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "prints and drawing",
+        "paper (fiber product)",
+        "paper"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-4",
+      "classification_title": "prints and drawing",
+      "alt_classification_ids": [
+        "TM-145"
+      ],
+      "classification_ids": [
+        "TM-4",
+        "TM-145"
+      ],
+      "classification_titles": [
+        "prints and drawing",
+        "paper"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2982"
+      ],
+      "material_titles": [
+        "paper (fiber product)"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "b9376368-c4e9-3284-db22-489c251f0768",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1986.197"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Design for Compotier No. 6873"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T08:57:26-05:00",
+      "updated_at": "2023-07-21T09:01:01-05:00",
+      "timestamp": "2023-07-21T14:46:17-05:00"
+    },
+    {
+      "id": 105304,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/105304",
+      "is_boosted": false,
+      "title": "Design for Bowl No. 7751",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAMGqdsWtd8OsecSsecatesauesiveMmvfc20eM62e8mxfMmyfs62ftC2fdG4f76qgMKsgMiwgMuzhM63itC3gNC5gtK5gtO6g9W8gdS8gtW+iNW/itW/jNjBiwAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4EQtlXVIztZhRnRxWqYQDZMgBTQIAfCEADs=",
+        "width": 3000,
+        "height": 2532,
+        "alt_text": "A work made of black ink on tan wove paper."
+      },
+      "main_reference_number": "1986.196",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1883,
+      "date_end": 1883,
+      "date_display": "1883",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Tiffany and Company\nAmerican, founded 1837",
+      "place_of_origin": "United States",
+      "dimensions": "31.4 × 36.8 cm (12 3/8 × 14 1/2 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 36.8,
+          "width_in": 14.4882,
+          "height_cm": 31.4,
+          "height_in": 12.3623,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Black ink on tan wove paper",
+      "inscriptions": null,
+      "credit_line": "Gift of Tiffany and Company",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 3,
+      "fiscal_year": 1986,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 38.2962,
+      "color": {
+        "h": 357,
+        "l": 41,
+        "s": 89,
+        "percentage": 0.0003336820310557866,
+        "population": 2
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 36977,
+      "artist_title": "Tiffany and Company",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        36977
+      ],
+      "artist_titles": [
+        "Tiffany and Company"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "prints and drawing",
+        "paper (fiber product)",
+        "paper"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-4",
+      "classification_title": "prints and drawing",
+      "alt_classification_ids": [
+        "TM-145"
+      ],
+      "classification_ids": [
+        "TM-4",
+        "TM-145"
+      ],
+      "classification_titles": [
+        "prints and drawing",
+        "paper"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2982"
+      ],
+      "material_titles": [
+        "paper (fiber product)"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "457af081-65e7-9be2-0f0d-8eaf97b7ca52",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1986.196"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Design for Bowl No. 7751"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T08:57:49-05:00",
+      "updated_at": "2023-07-21T09:01:01-05:00",
+      "timestamp": "2023-07-21T14:46:17-05:00"
+    },
+    {
+      "id": 250738,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/250738",
+      "is_boosted": false,
+      "title": "Untitled",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAFBNSlJPS2FeWmdjXmhkYGpmYGtnYm9saHRxa3RxbXd0bnx4cnx4c4WCfYeDfYeDfoqGgI+LhZCMhpGNiJWRjJmVj5qWkJ6alJ+blKahmq6qo7WvpbOuqLiyp7exqraxq7q1rca/tcbAucbBusjDu8vFvMzGvtHLwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwA2IZDqVQh3N5DHiWESeSgOQCAguGAVB4jhQPpnCwIBYMCKQIAA7",
+        "width": 6423,
+        "height": 4324,
+        "alt_text": "A work made of gelatin silver print."
+      },
+      "main_reference_number": "2019.746",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1960,
+      "date_end": 1965,
+      "date_display": "c. 1965",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Ernest Cole\nSouth African, 1940-1990",
+      "place_of_origin": "South Africa",
+      "dimensions": "Image/paper: 20 × 29.7 cm (7 7/8 × 11 3/4 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 29.7,
+          "width_in": 11.693,
+          "height_cm": 20,
+          "height_in": 7.8741,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Image/paper"
+        }
+      ],
+      "medium_display": "Gelatin silver print",
+      "inscriptions": null,
+      "credit_line": "Art Institute of Chicago, Purchased with fund provided by Wendy Fisher and A4 Arts Foundation",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 20,
+      "fiscal_year": 2019,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 6.7181,
+      "color": {
+        "h": 41,
+        "l": 9,
+        "s": 10,
+        "percentage": 0.030126720518179596,
+        "population": 144
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Photography and Media",
+      "department_id": "PC-12",
+      "artist_id": 114277,
+      "artist_title": "Ernest Cole",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        114277
+      ],
+      "artist_titles": [
+        "Ernest Cole"
+      ],
+      "category_ids": [
+        "PC-12"
+      ],
+      "category_titles": [
+        "Photography and Media"
+      ],
+      "term_titles": [
+        "African",
+        "photography",
+        "portrait",
+        "black-and-white photography",
+        "portrait",
+        "photography",
+        "photographic print",
+        "photographic materials",
+        "photographic images",
+        "photograph",
+        "portrait",
+        "photographic processes",
+        "photographic techniques",
+        "photography",
+        "20th Century",
+        "portraits",
+        "portraits: African subject",
+        "gelatin silver (developing-out-paper) pr",
+        "gelatin silver print",
+        "photograph",
+        "photographic process",
+        "photography"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [
+        "TM-13130"
+      ],
+      "style_ids": [
+        "TM-13130"
+      ],
+      "style_titles": [
+        "20th Century"
+      ],
+      "classification_id": "TM-12855",
+      "classification_title": "portrait",
+      "alt_classification_ids": [
+        "TM-12924",
+        "TM-213",
+        "TM-966",
+        "TM-240",
+        "TM-68",
+        "TM-67"
+      ],
+      "classification_ids": [
+        "TM-12855",
+        "TM-12924",
+        "TM-213",
+        "TM-966",
+        "TM-240",
+        "TM-68",
+        "TM-67"
+      ],
+      "classification_titles": [
+        "portrait",
+        "portrait",
+        "gelatin silver (developing-out-paper) pr",
+        "gelatin silver print",
+        "photograph",
+        "photographic process",
+        "photography"
+      ],
+      "subject_id": "TM-12470",
+      "alt_subject_ids": [
+        "TM-14105",
+        "TM-8578",
+        "TM-8658",
+        "TM-8595"
+      ],
+      "subject_ids": [
+        "TM-12470",
+        "TM-14105",
+        "TM-8578",
+        "TM-8658",
+        "TM-8595"
+      ],
+      "subject_titles": [
+        "African",
+        "portrait",
+        "photography",
+        "portraits",
+        "portraits: African subject"
+      ],
+      "material_id": "TM-14147",
+      "alt_material_ids": [
+        "TM-13906",
+        "TM-3250",
+        "TM-13158",
+        "TM-13858"
+      ],
+      "material_ids": [
+        "TM-14147",
+        "TM-13906",
+        "TM-3250",
+        "TM-13158",
+        "TM-13858"
+      ],
+      "material_titles": [
+        "photography",
+        "photographic print",
+        "photographic materials",
+        "photographic images",
+        "photograph"
+      ],
+      "technique_id": "TM-12089",
+      "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+      ],
+      "theme_titles": [],
+      "image_id": "a70e8deb-9bed-124d-6fd3-ea4a9eec4f81",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2019.746"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Untitled"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T08:59:15-05:00",
+      "updated_at": "2023-07-21T09:01:00-05:00",
+      "timestamp": "2023-07-21T14:46:18-05:00"
+    },
+    {
+      "id": 105303,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/105303",
+      "is_boosted": false,
+      "title": "Design for Fern and Daisy Perfume Bottle No. 2661",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAL6qfsafZ8ifZcitfMevhMKwhcuzgcu2hMq2hcu3h822hMy4h8m3ic22icy3jM24ic25ic65iMu4jMu4js25jNO+jdG9j9TCkwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoGNdEEU0zIFUUbEkTwIoxiQNQhACADs=",
+        "width": 2733,
+        "height": 2690,
+        "alt_text": "A work made of black and sepia ink, with pencil and red ink, on tan wove paper."
+      },
+      "main_reference_number": "1986.195",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1870,
+      "date_end": 1875,
+      "date_display": "1870/75",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Tiffany and Company\nAmerican, founded 1837",
+      "place_of_origin": "United States",
+      "dimensions": "14.9 × 15.2 cm (5 7/8 × 6 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 15.2,
+          "width_in": 5.9843,
+          "height_cm": 14.9,
+          "height_in": 5.8662,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Black and sepia ink, with pencil and red ink, on tan wove paper",
+      "inscriptions": null,
+      "credit_line": "Gift of Tiffany and Company",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 3,
+      "fiscal_year": 1986,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 39.4913,
+      "color": {
+        "h": 27,
+        "l": 39,
+        "s": 83,
+        "percentage": 0.00343009046863611,
+        "population": 24
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 36977,
+      "artist_title": "Tiffany and Company",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        36977
+      ],
+      "artist_titles": [
+        "Tiffany and Company"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "paper (fiber product)",
+        "prints and drawing",
+        "paper",
+        "drawings (visual works)"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": null,
+      "classification_title": null,
+      "alt_classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-5"
+      ],
+      "classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-5"
+      ],
+      "classification_titles": [
+        "prints and drawing",
+        "paper",
+        "drawings (visual works)"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2982"
+      ],
+      "material_titles": [
+        "paper (fiber product)"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "c96c8c86-38bf-2231-41ea-88a6dd7b8e23",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1986.195"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Design for Fern and Daisy Perfume Bottle No. 2661"
+          ],
+          "weight": 9,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T08:58:11-05:00",
+      "updated_at": "2023-07-21T09:01:00-05:00",
+      "timestamp": "2023-07-21T14:46:18-05:00"
+    },
+    {
+      "id": 258230,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/258230",
+      "is_boosted": false,
+      "title": "Madoda Thabethe Mabunda Zahkele Mkhize Zakhele Maseko no Mfundisi uNdlela from Swaziland, Esiwasheni, from the series \"Umlindelo wamaKholwa\"",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAEZFQ0pKR0tKSE1MSVNSUFdWU1xbWFxbWWJhXmRjYGVjYGloZGxrZ25tam9ua3FvbHFwbHJxbXZ1cXZ1cnd1cnd2cnl4dH9+e4OCf4aEgIuJhY2LiJWTkJaVkpeWkpybl56dmaKhnqSin6Sjoayqp7OxrgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwIjiUYFYJJDQCEPobBgT0ufguDQAg5Jn8UiIAgIOKENBaAqGIAA7",
+        "width": 10391,
+        "height": 6934,
+        "alt_text": "A work made of gelatin silver print."
+      },
+      "main_reference_number": "2020.382.5",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 2003,
+      "date_end": 2003,
+      "date_display": "2003",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "Sabelo Mlangeni\nSouth African, born 1980",
+      "place_of_origin": null,
+      "dimensions": "Image: 24 × 36 cm (9 1/2 × 14 3/16 in.); Paper: 30 × 40 cm (11 13/16 × 15 3/4 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 36,
+          "width_in": 14.1733,
+          "height_cm": 24,
+          "height_in": 9.4489,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Image"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 40,
+          "width_in": 15.7481,
+          "height_cm": 30,
+          "height_in": 11.8111,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Paper"
+        }
+      ],
+      "medium_display": "Gelatin silver print",
+      "inscriptions": null,
+      "credit_line": "Art Institute of Chicago, Photography and Media Fund",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": "2 of 7, plus 2 artist's proofs",
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 20,
+      "fiscal_year": 2021,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 0,
+      "color": {
+        "h": 43,
+        "l": 47,
+        "s": 2,
+        "percentage": 0.0019930273466391133,
+        "population": 1436
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Photography and Media",
+      "department_id": "PC-12",
+      "artist_id": 114377,
+      "artist_title": "Sabelo Mlangeni",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        114377
+      ],
+      "artist_titles": [
+        "Sabelo Mlangeni"
+      ],
+      "category_ids": [
+        "PC-12",
+        "PC-835"
+      ],
+      "category_titles": [
+        "Photography and Media",
+        "2020–21 acquisitions by BIPOC artists"
+      ],
+      "term_titles": [
+        "black-and-white photography",
+        "photography",
+        "portraits",
+        "contemporary",
+        "photographic processes",
+        "photographic techniques",
+        "photography",
+        "photograph",
+        "photographic process",
+        "photography",
+        "portrait",
+        "portraits: African subject",
+        "21st Century"
+      ],
+      "style_id": "TM-12062",
+      "style_title": "contemporary",
+      "alt_style_ids": [
+        "TM-12913"
+      ],
+      "style_ids": [
+        "TM-12062",
+        "TM-12913"
+      ],
+      "style_titles": [
+        "contemporary",
+        "21st Century"
+      ],
+      "classification_id": "TM-67",
+      "classification_title": "photography",
+      "alt_classification_ids": [
+        "TM-240",
+        "TM-68"
+      ],
+      "classification_ids": [
+        "TM-67",
+        "TM-240",
+        "TM-68"
+      ],
+      "classification_titles": [
+        "photography",
+        "photograph",
+        "photographic process"
+      ],
+      "subject_id": "TM-8658",
+      "alt_subject_ids": [
+        "TM-8578",
+        "TM-14105",
+        "TM-8595"
+      ],
+      "subject_ids": [
+        "TM-8658",
+        "TM-8578",
+        "TM-14105",
+        "TM-8595"
+      ],
+      "subject_titles": [
+        "portraits",
+        "photography",
+        "portrait",
+        "portraits: African subject"
+      ],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": "TM-12089",
+      "alt_technique_ids": [
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_ids": [
+        "TM-12089",
+        "TM-3937",
+        "TM-3977",
+        "TM-3978"
+      ],
+      "technique_titles": [
+        "black-and-white photography",
+        "photographic processes",
+        "photographic techniques",
+        "photography"
+      ],
+      "theme_titles": [
+        "2020–21 acquisitions by BIPOC artists"
+      ],
+      "image_id": "ecd16317-f8a8-a9ba-2fef-866bda906090",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2020.382.5"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Madoda Thabethe Mabunda Zahkele Mkhize Zakhele Maseko no Mfundisi uNdlela from Swaziland, Esiwasheni, from the series \"Umlindelo wamaKholwa\""
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-07-21T08:59:15-05:00",
+      "updated_at": "2023-07-21T09:00:59-05:00",
+      "timestamp": "2023-07-21T14:46:18-05:00"
+    }
+  ],
+  "info": {
+    "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+      "https://creativecommons.org/publicdomain/zero/1.0/",
+      "https://www.artic.edu/terms"
+    ],
+    "version": "1.8"
+  },
+  "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "http://www.artic.edu"
+  }
+}

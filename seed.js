@@ -1,5 +1,5 @@
 import Artwork from "./artwork/model.js"
-import artworkData from "./artwork/artwork2.json" assert {type: "json"}
+import artworkData from "./artwork/artwork-sample.json" assert {type: "json"}
 import connection from "./connection.js"
 
 // This function transforms the original names for the items in the object
