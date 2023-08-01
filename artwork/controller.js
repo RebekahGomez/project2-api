@@ -134,7 +134,7 @@ export const deleteArt =
       });
   }
 
-// function for pagination - not operable
+// function for pagination - not operable yet
 // export const getArtworks =
 //   (req, res) => {
 //     const page = parseInt(req.query.page) || 1;
