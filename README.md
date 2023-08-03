@@ -37,3 +37,5 @@
 ## Notes
 - In seed.js, I have included 2 methods for seeding the data and commented out one of the methods. Two different methods to do the same thing, just for my own practice.
 - This API uses "type": "module" to use the "import syntax" when connecting files
+
+[Rebekah Gomez, 2023](https://www.linkedin.com/in/rebekah-gomez/)
